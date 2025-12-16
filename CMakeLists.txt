@@ -75,17 +75,17 @@ list(APPEND GAME_SOURCE
      Classes/Scenes/LoadingScene.cpp
      Classes/Scenes/MainScene.cpp
      Classes/Scenes/MenuScene.cpp
-     classes/Systems/AISystem.cpp
-     classes/Systems/CombatSystem.cpp
-     classes/Systems/EconomySystem.cpp
-     classes/Systems/Pathfinding.cpp
-     classes/UI/BuildingButton.cpp
-     classes/UI/CustomButton.cpp
-     classes/UI/ResourcePanel.cpp
-     classes/UI/UnitButton.cpp
-     classes/Utils/DebugUtils.cpp
-     classes/Utils/MathUtils.cpp
-     classes/Utils/StringUtils.cpp
+     Classes/Systems/AISystem.cpp
+     Classes/Systems/CombatSystem.cpp
+     Classes/Systems/EconomySystem.cpp
+     Classes/Systems/Pathfinding.cpp
+     Classes/UI/BuildingButton.cpp
+     Classes/UI/CustomButton.cpp
+     Classes/UI/ResourcePanel.cpp
+     Classes/UI/UnitButton.cpp
+     Classes/Utils/DebugUtils.cpp
+     Classes/Utils/MathUtils.cpp
+     Classes/Utils/StringUtils.cpp
      #Classes/HelloWorldScene.cpp
      )
 list(APPEND GAME_HEADER
@@ -116,19 +116,19 @@ list(APPEND GAME_HEADER
      Classes/Scenes/LoadingScene.h
      Classes/Scenes/MainScene.h
      Classes/Scenes/MenuScene.h
-     classes/Systems/AISystem.h
-     classes/Systems/CombatSystem.h
-     classes/Systems/EconomySystem.h
-     classes/Systems/Pathfinding.h
-     classes/UI/BuildingButton.h
-     classes/UI/CustomButton.h
-     classes/UI/ResourcePanel.h
-     classes/UI/UnitButton.h
-     classes/Utils/DebugUtils.h
-     classes/Utils/MathUtils.h
-     classes/Utils/StringUtils.h
-     classes/Utils/GameConstants.h
-     classes/Utils/ObjectPool.h
+     Classes/Systems/AISystem.h
+     Classes/Systems/CombatSystem.h
+     Classes/Systems/EconomySystem.h
+     Classes/Systems/Pathfinding.h
+     Classes/UI/BuildingButton.h
+     Classes/UI/CustomButton.h
+     Classes/UI/ResourcePanel.h
+     Classes/UI/UnitButton.h
+     Classes/Utils/DebugUtils.h
+     Classes/Utils/MathUtils.h
+     Classes/Utils/StringUtils.h
+     Classes/Utils/GameConstants.h
+     Classes/Utils/ObjectPool.h
     # Classes/HelloWorldScene.h
      )
 
